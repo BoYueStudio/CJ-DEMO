@@ -1,0 +1,1 @@
+java  -Dfile.encoding=utf-8 -jar CJ-DEMO-1.0.jar

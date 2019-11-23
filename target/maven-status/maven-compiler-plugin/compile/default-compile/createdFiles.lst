@@ -1,0 +1,4 @@
+com\CASIC\UserApp.class
+com\CASIC\controller\UserController.class
+com\CASIC\domain\User.class
+com\CASIC\controller\UserController2.class
